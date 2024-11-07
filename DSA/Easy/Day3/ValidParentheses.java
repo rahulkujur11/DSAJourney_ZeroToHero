@@ -7,6 +7,7 @@ public class ValidParentheses {
         String s = sc.nextLine();
         Boolean result = checkValidParentheses(s);
         System.out.println(result);
+        sc.close();
     }
 
     public static Boolean checkValidParentheses(String s){
