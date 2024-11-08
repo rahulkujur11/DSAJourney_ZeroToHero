@@ -1,4 +1,4 @@
-package DSA.Questions_1_300.Question3;
+package DSA.Questions_1_300._1Beginner._1Arrays.Question3;
 
 public class removeDuplicates {
     public static void main(String[] args) {

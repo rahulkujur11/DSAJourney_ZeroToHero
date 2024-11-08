@@ -1,4 +1,4 @@
-package DSA.Easy.Day1;
+package DSA.LeetCode.Easy.Day1;
 
 public class PalindromeNumber {
     public boolean isPalindrome(int x) {

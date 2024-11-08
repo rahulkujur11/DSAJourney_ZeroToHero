@@ -1,4 +1,4 @@
-package DSA.Questions_1_300.Question5;
+package DSA.Questions_1_300._1Beginner._1Arrays.Question5;
 
 public class RotateArray {
 

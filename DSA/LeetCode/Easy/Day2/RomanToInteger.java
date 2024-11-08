@@ -1,4 +1,4 @@
-package DSA.Easy.Day2;
+package DSA.LeetCode.Easy.Day2;
 
 import java.util.HashMap;
 import java.util.Map;

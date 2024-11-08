@@ -1,4 +1,4 @@
-package DSA.Questions_1_300.Question7;
+package DSA.Questions_1_300._1Beginner._1Arrays.Question7;
 
 public class BuyAndSell {
 

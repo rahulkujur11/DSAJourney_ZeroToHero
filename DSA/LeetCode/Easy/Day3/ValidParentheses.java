@@ -1,4 +1,4 @@
-package DSA.Easy.Day3;
+package DSA.LeetCode.Easy.Day3;
 import java.util.*;
 
 public class ValidParentheses {

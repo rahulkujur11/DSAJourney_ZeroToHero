@@ -1,4 +1,4 @@
-package DSA.Questions_1_300;
+package DSA.Questions_1_300._1Beginner._1Arrays;
 
 
 public class Question8_SingleNumber {

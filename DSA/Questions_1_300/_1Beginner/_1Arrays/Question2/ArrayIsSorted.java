@@ -1,4 +1,4 @@
-package DSA.Questions_1_300.Question2;
+package DSA.Questions_1_300._1Beginner._1Arrays.Question2;
 
 public class ArrayIsSorted {
     public static void main(String[] args) {

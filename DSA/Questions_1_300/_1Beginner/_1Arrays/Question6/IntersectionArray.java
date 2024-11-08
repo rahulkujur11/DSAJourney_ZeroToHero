@@ -1,4 +1,4 @@
-package DSA.Questions_1_300.Question6;
+package DSA.Questions_1_300._1Beginner._1Arrays.Question6;
 
 import java.util.HashSet;
 import java.util.Set;
